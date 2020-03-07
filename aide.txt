@@ -1,0 +1,6 @@
+---------------help----------------
+ar-creer une archive compressee 
+re- restaurer les documents 
+sa- savoir la taille du disque
+clean- nettoyer touts les archives compressee si la difference entre la taille des archives et l'espace libre du disque n'excede pas 2GO (tout en gardant la derniere archive)
+
